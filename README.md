@@ -20,11 +20,9 @@ L'objectif de ce projet est de mettre en avant mes compétences en Data Science 
 
 - Explorez les différents répertoires pour accéder aux notebooks et aux scripts correspondants à chaque étape du projet.
 
-<<<<<<< HEAD
 ## Environnement et Dépendances
 =======
 ## Environnement et Dépendances
->>>>>>> af804f4ea5cec87746600d1db0f99f9f7f0791e8
 Assurez-vous d'avoir un environnement Python configuré avec les dépendances nécessaires. Vous pouvez installer les dépendances en exécutant la commande suivante dans votre environnement virtuel :
 ```bash
 pip install -r requirements.txt
